@@ -11,6 +11,4 @@ public class Calc {
 		System.out.println("Product is "+(n1*n2));
 	}
 	
-
-
 }
